@@ -1,6 +1,6 @@
 # Web Engineer Syllabus
 
- learn Git
+- learn Git
 — create a GitHub account
 — learn how to commit and save code locally and remotely
 — learn how to merge others code into yours
@@ -28,7 +28,6 @@
 — learn about component design and higher-order components
 — learn React hooks for state change management
 — learn NextJS to try out server-side rendering
-
 
 - optimize your code
 — learn data structures: stacks, queues, lists, maps and trees
