@@ -8,11 +8,15 @@
 — learn how to merge others code into yours
 - learn how to resolve merge conflicts
 — learn how to create a pull request to get feedback on your changes
-- contribute to opensource on GitHub
+— lcontribute to opensource on GitHub
+— lLearn about NPM and Node
 
 - learn JavaScript
 — learn loops, control statements, data structures like array and object
-— learn asynchronous programming, Promises, async/await, the event loop
+— learn asynchronous programming, Promises, Fetch API and ajaz
+— async/await, the event loop
+— Event listeners, ES6+
+— Classes, Array Methods, Scoping, Hoisting, Closures
 
 - learn internet fundamentals
 — learn HTTP vs HTTPS
@@ -20,9 +24,13 @@
     Create an HTML file from Scractch, Use an HTML template like HTML boilerplate
     Following industry Naming conventions
     Incorporate latest HTML 5 tags
+    Learn semantic HTMl
+    Learn SEO Basics
     
     Take Css from Scractch
     Manipulate layouts and styles
+    Selectors, Box Model, Positioning, Display Specificity
+    Flexbox, Grid, Media queries, Pseudo elements and classes, Animations
     Use CSS preprocessor
     
 — learn REST standards. Especially methods GET, POST, PUT, and DELETE
@@ -66,12 +74,18 @@
 — learn algorithms: breadth-first search, depth-first search, binary search, recursion
 — try out LeetCode to build your interview confidence
 — learn TypeScript to make your code even better
+— learn about style guide, pre-commit hooks
+— learn about webpack and other tools
 
 - Others
 — Testing
 — Accessibility
 — SEO
 — performance
+— Cors
+— Basic Security
+
+
 
 - Learn Devops ( Explain FTP )
 -- Make a site go live
