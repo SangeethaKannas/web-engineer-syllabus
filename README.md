@@ -1,5 +1,7 @@
 # Web Engineer Syllabus
 
+- Learn about programming languages in general
+
 - learn Git
 — create a GitHub account
 — learn how to commit and save code locally and remotely
@@ -25,8 +27,17 @@
     
 — learn REST standards. Especially methods GET, POST, PUT, and DELETE
 — learn DNS and domains
-- Learn FTP
-    -
+— Learn FTP
+   -
+- Learn Browsers and Editors
+— learn to run code on web 
+— learn about DOM and visual elements
+— learn to use dev tools
+— learn where to write and debug the code 
+
+- learn command line tools
+— learn to send commands of text ( less graphical option )
+
 
 - learn a backend framework
 — learn NodeJS
@@ -62,8 +73,10 @@
 — SEO
 — performance
 
-
 - Learn Devops ( Explain FTP )
 -- Make a site go live
 -- Updatea site after it gone live
-- 
+
+
+- Learn about documentation
+— learn about online documentation and forums
